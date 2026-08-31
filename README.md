@@ -2,81 +2,80 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Building+ideas+with+AI+%26+code;Namaste+🙏+I'm+Mayank;Learning%2C+building%2C+breaking%2C+repeating;Turning+curiosity+into+projects+🚀" />
-</h1>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=650&height=70&duration=3200&pause=900&lines=Hey%2C+I'm+Mayank+%F0%9F%91%8B;AI%2C+code%2C+and+a+little+too+much+curiosity;Teaching+machines+to+make+sense+of+messy+things;Still+figuring+things+out+%E2%80%94+but+shipping+along+the+way" />
+
+<h3>AI/ML Developer • Python • Data • Builder</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-Building%20%26%20Learning-0D1117?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<h3 align="center">AI/ML Developer • Python • Data & Intelligent Systems</h3>
+---
+
+### `whoami`
+
+```text
+Mayank
+├── exploring     → Artificial Intelligence & Machine Learning
+├── building      → things that turn ideas into working systems
+├── learning      → Python • SQL • ML • AI
+├── interested_in → intelligent systems + real-world problem solving
+└── currently     → figuring out how far I can take all of this
+```
+
+### `// a little about me`
+
+I like understanding how things work, breaking them apart, and then trying to build my own version of them.
+
+Most of my curiosity currently lives somewhere between **AI, machine learning, data, and software**. I'm especially interested in taking an idea beyond just a model or a notebook and turning it into something people can actually use.
+
+I'm still learning, still experimenting, and definitely still breaking things — but that's kind of the fun part.
+
+> `learn → build → break → debug → repeat`
 
 <br>
 
-🔭 **Currently exploring**
-
-- Artificial Intelligence & Machine Learning
-- Building practical AI-powered applications
-- Python, SQL & data-driven problem solving
-- Turning ideas into working, deployable projects
-
-💻 **What I like building**
-
-- AI/ML systems that solve real-world problems
-- Predictive and decision-support applications
-- Computer vision & intelligent automation
-- Projects where the model is only the beginning
-
-🚀 **A few things I've been working on**
-
-- **Aureon** — AI-powered digital twin platform for simulation, decision intelligence and optimization
-- **Ironsight** — AI-powered predictive maintenance decision-support system
-- **TactileGen** — Computer vision system for transforming educational diagrams into accessible tactile representations
-- **Aegis** — AI-powered smart contract security agent combining static analysis with LLM reasoning
-
-📚 **You'll usually find me**
-
-- Experimenting with a new idea at an unreasonable hour
-- Learning something I probably didn't need to learn yet
-- Turning "what if..." into an actual GitHub repository
-- Debugging one thing and accidentally learning three others
-
-💡 **Open to**
-
-Collaborations, interesting projects, AI/ML experiments, and conversations that start with  
-*"wait... what if we tried this?"*
-
-<br>
-
-<h2 align="center">Languages & Tools</h2>
+### `⚙️ current stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,typescript,javascript,html,css,react,nodejs,mongodb,mysql,vscode,github,git,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript,react,nodejs,mongodb,mysql,git,github,docker,vscode&theme=dark"/>
 
 </div>
 
 <br>
 
-<h2 align="center">📊 GitHub Journey</h2>
+### `📡 currently.exe`
 
-<div align="center">
+```text
+[■■■■■■■■■■■■■■■■■■■■] 100%
 
-<h3>🔥 Contribution Streak</h3>
+AI / ML              ███████████████░░░  exploring
+Python               █████████████████░  building
+Data                 ██████████████░░░░  learning
+Software             █████████████░░░░░  experimenting
+Random ideas         ██████████████████  unfortunately infinite
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RMP2005&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="Mayank's GitHub Streak"/>
+### `🧠 things that keep me curious`
 
-<br><br>
-
-<h3>📈 Activity Graph</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RMP2005&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="Mayank's GitHub Activity Graph"/>
-
-</div>
+`Artificial Intelligence` · `Machine Learning` · `Data` · `Automation`  
+`Computer Vision` · `Intelligent Systems` · `Problem Solving` · `Building`
 
 <br>
 
 <div align="center">
 
-### ⚡ Building today, learning tomorrow, shipping along the way.
+### `there's probably a better way to do it`
+
+**I'm probably trying to find it.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=RMP2005&label=PROFILE%20VIEWS&color=0e75b6&style=flat"/>
 
 </div>
