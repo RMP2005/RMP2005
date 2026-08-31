@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
-<br>
-
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=650&height=70&duration=3500&pause=900&lines=Hey%2C+I'm+Mayank+%F0%9F%91%8B;AI+%2B+Code+%2B+Curiosity;Building+ideas%2C+one+experiment+at+a+time;Still+learning.+Still+shipping." />
+</h1>
 
 <h3 align="center">AI/ML Developer • Python • Data • Builder</h3>
 
@@ -78,7 +78,9 @@
 <br><br>
 
 <a href="https://github.com/RMP2005/Aureon">
+
 <img src="https://img.shields.io/badge/EXPLORE_AUREON-%E2%86%92-0D1117?style=for-the-badge"/>
+
 </a>
 
 </div>
@@ -99,9 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RMP2005&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMP2005&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMP2005&theme=github_dark" width="90%" alt="Mayank's GitHub Profile Summary"/>
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RMP2005&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="Mayank's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RMP2005&theme=react-dark&hide_border=true" alt="Mayank's GitHub Activity Graph"/>
 
 </div>
 
