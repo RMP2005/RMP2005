@@ -4,87 +4,60 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=650&height=70&duration=3500&pause=900&lines=Hey%2C+I'm+Mayank+%F0%9F%91%8B;AI%2C+code%2C+and+a+little+too+much+curiosity;Building+ideas+into+intelligent+systems;Learning+something+new+every+day" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=650&height=70&duration=3500&pause=900&lines=Hey%2C+I'm+Mayank+%F0%9F%91%8B;AI+%2B+Code+%2B+Curiosity;Building+ideas%2C+one+experiment+at+a+time;Still+learning.+Still+shipping." />
 
 <h3 align="center">AI/ML Developer • Python • Data • Builder</h3>
 
-</div>
+<br>
 
----
-
-### `whoami`
-
-```text
-┌─────────────────────────────────────────────┐
-│                  MAYANK.exe                 │
-├─────────────────────────────────────────────┤
-│                                             │
-│  exploring  → Artificial Intelligence       │
-│               Machine Learning               │
-│               Data & Intelligent Systems     │
-│                                             │
-│  building   → ideas that solve real problems│
-│  learning   → Python • SQL • AI/ML          │
-│  mindset    → curious enough to keep digging│
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-### `// a little about me`
-
-I'm a college student exploring the world of **AI, machine learning, data, and software** — mostly by building things and figuring them out along the way.
-
-I enjoy understanding how systems work, experimenting with new ideas, and taking something from *"this could be cool"* to *"okay, it actually works."*
-
-Currently learning, constantly experimenting, occasionally fighting with bugs at 2 AM.
-
-```text
-learn → build → break → debug → repeat
-```
-
----
-
-### `⚡ currently.exe`
-
-```text
-[ SYSTEM ONLINE ]
-
-AI / ML                 ███████████████░░░░   exploring
-Python                  █████████████████░░   building
-Data & SQL              ██████████████░░░░░   learning
-Software                █████████████░░░░░░   experimenting
-
-> curiosity.exe is running...
-```
-
----
-
-### `🧠 things I'm curious about`
-
-<div align="center">
-
-`Artificial Intelligence` · `Machine Learning` · `Python`  
-`Data` · `Computer Vision` · `Automation`  
-`Intelligent Systems` · `Problem Solving`
+<img src="https://img.shields.io/badge/AI%20%26%20ML-%E2%9A%A1-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-%F0%9F%90%8D-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-%F0%9F%9A%80-0D1117?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `🚀 featured.exe`
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&center=true&vCenter=true&width=700&height=45&duration=2500&pause=700&lines=Curious+mind+%E2%86%92+AI+%E2%86%92+experiments+%E2%86%92+projects;Learning+by+building+%F0%9F%A7%A0;Making+machines+do+more+than+just+run+code." />
+
+</div>
+
+<br>
+
+## 🧠 A little about me
+
+I'm a college student exploring **AI, machine learning, data, and software**.
+
+I like taking random ideas seriously enough to build them, learning whatever I need along the way, and occasionally discovering that the bug was actually teaching me something.
 
 <div align="center">
 
-### ✦ A U R E O N ✦
+`AI` ✦ `ML` ✦ `Python` ✦ `Data` ✦ `Computer Vision` ✦ `Automation`
 
-**AI-powered digital twin & decision intelligence**
+</div>
+
+---
+
+## 🚀 Featured
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=AUREON&fontSize=42&fontColor=00D4AA&animation=fadeIn"/>
+
+<br>
+
+### AI-powered Digital Twin & Decision Intelligence
 
 `simulation` · `AI` · `optimization` · `intelligent systems`
 
 <br>
 
-> **Turning complex systems into something you can understand, simulate, and improve.**
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00D4AA?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-<br>
+</div>
 
-<img src="https://img.sh
+---
+
+<h2 align="center
