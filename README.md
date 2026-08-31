@@ -60,4 +60,64 @@ I like taking random ideas seriously enough to build them, learning whatever I n
 
 ---
 
-<h2 align="center
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sql,javascript,typescript,react,nodejs,mongodb,mysql,git,github,docker,vscode&theme=dark"/>
+
+</div>
+
+<br>
+
+<h2 align="center">📊 Github Statistics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RMP2005&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMP2005&layout=compact&theme=gruvbox&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<h3 align="center">🔥 Contribution Streak</h3>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RMP2005&theme=react&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FFD700&currStreakLabel=00D4AA" alt="Mayank's GitHub Streak"/>
+
+</div>
+
+<br>
+
+<h3 align="center">📈 Activity Graph</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RMP2005&theme=react-dark&hide_border=true&area=true&color=00D4AA&point=FFD700&line=00D4AA&bg_color=0D1117" alt="Mayank's GitHub Activity Graph"/>
+
+</div>
+
+<br>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=RMP2005&label=PROFILE%20VIEWS&color=0e75b6&style=flat"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&center=true&vCenter=true&width=550&height=35&duration=3000&pause=1000&lines=Thanks+for+stopping+by+%E2%9C%A8;Now+go+build+something+cool." />
+
+</div>
