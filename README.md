@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RMP2005&theme=react-dark&hide_border=true" alt="Mayank's GitHub Activity Graph"/>
+<img src="https://raw.githubusercontent.com/RMP2005/RMP2005/output/activity-graph.svg" alt="Mayank's GitHub Activity Graph"/>
 
 </div>
 
