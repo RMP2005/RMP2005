@@ -26,35 +26,60 @@
 
 <br>
 
-## 🧠 A little about me
-
-I'm a college student exploring **AI, machine learning, data, and software**.
-
-I like taking random ideas seriously enough to build them, learning whatever I need along the way, and occasionally discovering that the bug was actually teaching me something.
+<h2 align="center">🧠 A little about me</h2>
 
 <div align="center">
 
-`AI` ✦ `ML` ✦ `Python` ✦ `Data` ✦ `Computer Vision` ✦ `Automation`
+<img src="https://img.shields.io/badge/🎓_College_Student-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-0D1117?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🐍_Python-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🗃️_Data_%26_SQL-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/👁️_Computer_Vision-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚙️_Intelligent_Systems-0D1117?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💡_Build-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧪_Experiment-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔧_Break_%26_Debug-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Repeat-0D1117?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 Featured
+<h2 align="center">🚀 Featured</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=header&text=AUREON&fontSize=42&fontColor=00D4AA&animation=fadeIn"/>
+<a href="https://github.com/RMP2005/Aureon">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=110&section=header&text=AUREON&fontSize=44&fontColor=00D4AA&animation=fadeIn"/>
+
+</a>
 
 <br>
 
-### AI-powered Digital Twin & Decision Intelligence
+<h3>AI-powered Digital Twin & Decision Intelligence</h3>
 
-`simulation` · `AI` · `optimization` · `intelligent systems`
+<img src="https://img.shields.io/badge/AI-00D4AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-00D4AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Simulation-00D4AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimization-00D4AA?style=flat-square"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00D4AA?style=for-the-badge&logo=rocket&logoColor=white"/>
+<em>Turning complex systems into something that can be simulated, understood and improved.</em>
+
+<br><br>
+
+<a href="https://github.com/RMP2005/Aureon">
+<img src="https://img.shields.io/badge/EXPLORE_AUREON-%E2%86%92-0D1117?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -74,9 +99,9 @@ I like taking random ideas seriously enough to build them, learning whatever I n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RMP2005&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RMP2005&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMP2005&layout=compact&theme=gruvbox&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMP2005&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
